@@ -20,7 +20,6 @@ Elite Task Manager is a premium, high-performance to-do application built with F
 - **State Management**: [GetX](https://pub.dev/packages/get)
 - **Local Storage**: [GetStorage](https://pub.dev/packages/get_storage)
 - **Animations**: [Flutter Animate](https://pub.dev/packages/flutter_animate)
-- **Icons**: [Lucide Icons](https://lucide.dev/) (via Flutter)
 
 ## 🏗️ Architecture
 
@@ -60,18 +59,3 @@ The project follows the **Clean Architecture** pattern to ensure a scalable and 
    flutter run
    ```
 
-## 📱 Screenshots
-
-*Coming soon...*
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with ❤️ for productivity.
