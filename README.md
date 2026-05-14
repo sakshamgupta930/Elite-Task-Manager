@@ -2,8 +2,6 @@
 
 Elite Task Manager is a premium, high-performance to-do application built with Flutter, following **Clean Architecture** principles and powered by **GetX** for state management and dependency injection.
 
-![Elite Task Manager Mockup](C:\Users\asus\.gemini\antigravity\brain\e9150f2c-c3d8-49d6-85ce-62695303fd6b\elite_task_manager_mockup_1778751855178.png)
-
 ## ✨ Features
 
 - **Clean & Modern UI**: A premium user interface with smooth animations and a professional color palette.
